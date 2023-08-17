@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Typing keys since childhood <br>📚 I'm currently learning Javascript and Dsa in java <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Never dated a girl though reject many respones </p>
+<p align="left">✨ Typing keys since childhood <br>📚 I'm currently learning Javascript and Dsa in java <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Never dated a girl,though dodged many of those lusty eyes  </p>
 
 ###
 
@@ -23,13 +23,13 @@
   <img width="12" />
   <img src="https://destatic.blob.core.windows.net/images/css-logo.png" height="40" alt="Css-logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://tse3.mm.bing.net/th?id=OIP.JroZA6yi2vhYkSOENfSsVgHaIh&pid=Api&P=0&h=180" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://tse2.mm.bing.net/th?id=OIP.Jfgq6_v3gqylklTDZWPLbgHaEk&pid=Api&P=0&h=180" height="40" alt="c++-logo"  />
   <img width="12" />
-  <img src="https://tse1.mm.bing.net/th?id=OIP.4cZggQ1evy9v8_16d7bQ8AHaEo&pid=Api&P=0&h=180" height="40" alt="Java-logo"  />
+  <img src="https://tse4.mm.bing.net/th?id=OIP.L0YgQAqW9pX4fhd1_SrBjgHaJW&pid=Api&P=0&h=180" height="40" alt="Java-logo"  />
   <img width="12" />
-  <img src="https://tse3.mm.bing.net/th?id=OIP.mnV79rLcVXAv_9RoPDQ5fgHaFj&pid=Api&P=0&h=180" height="40" alt="figma-logo"  />
+  <img src="https://www.kindpng.com/picc/m/81-814934_figma-logo-png-transparent-png.png" height="40" alt="figma-logo"  />
 </div>
 
 ###
