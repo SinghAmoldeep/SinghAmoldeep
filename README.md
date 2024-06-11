@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Typing keys since childhood <br>📚 I'm currently learning Javascript and Dsa in java <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Never dated a girl,though dodged many of those lusty eyes  </p>
+<p align="left">✨ Typing keys since childhood <br>📚 I'm currently learning Javascript and Dsa in java <br>🎯 Goals: Full Stack Developer<br>🎲 
 
 ###
 
